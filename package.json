@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/michaelprosario/SpaceInvadersECS#readme",
   "dependencies": {
-    "ecsy": "^0.3.2"
+    "ecs-lib": "^0.8.0-pre.2"
   },
   "devDependencies": {
     "@types/jest": "^26.0.5",
